@@ -79,7 +79,7 @@ console.log(sliderImg);
 
 // var insert = slider[0].
 
-var pics = ["img/pic-1.jpg", "img/pic-2.jpg", "img/pic-3.jpg"];
+var pics = ["img/pic-1.jpg", "img/pic-2.jpg", "img/pic-3.JPG"];
 
 var counter = 0;
 
